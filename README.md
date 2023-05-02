@@ -2,6 +2,7 @@
 Voice Assistant for Linux
 
 Download the zip
+
 Unzip the file in a folder 
 
 ## In the terminal: -
