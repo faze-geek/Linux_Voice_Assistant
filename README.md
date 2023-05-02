@@ -1,5 +1,4 @@
-# Thor
-Voice Assistant for Linux
+# Thor - Voice Assistant for Linux
 
 Download the zip
 
